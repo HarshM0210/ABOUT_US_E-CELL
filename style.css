@@ -1,0 +1,40 @@
+* {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    padding: 20px;
+    margin: 10vh;
+    text-align: center;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 2rem;
+    letter-spacing: 8px;
+    line-height: 1.1;
+}
+
+.content {
+    padding: 2px;
+    margin: 0px 10vw 10vw 10vw;
+    color: white;
+    text-align: center;
+    text-align: justify;
+    font-family: "Roboto", sans-serif;
+    font-size: large;
+    position: relative;
+    word-spacing: 8px;
+}
+
+p,
+h1 {
+    font-weight: 100;
+}   
+.line{
+    margin-bottom: 124px;
+    height: 2px;
+    background-color: #0ea5f1;
+    position: relative;
+    margin: 0vw 23vw 5vw 23vw;
+}
